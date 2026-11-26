@@ -42,6 +42,8 @@ apps/web/src/components/settings/ProjectIconPickerDialog.tsx
   s_4ea720c0429591::t_82b38395213ef5 104-106,114-115,117,123-125,137,147-153,165,170,344,435
   s_4ea720c0429591::t_e62d1033e26f54 98
   s_4ea720c0429591::t_6c2798dbe9a285 166-167,434,436
+  s_4ea720c0429591::t_25d738b1d97bb5 225-232,258-273
+  s_4ea720c0429591::t_906b01d0255dd7 375-404,407-409,412-423,425-433
 apps/web/src/components/settings/ProjectIconPickerDialog.browser.test.tsx
   s_4ea720c0429591::t_4eaa71279dd07e 51-56,58-70,72-84
   s_4ea720c0429591::t_fc29b394f722c2 57
@@ -66,6 +68,7 @@ apps/web/src/i18n/translations/sv.json
   s_4ea720c0429591::t_88bcbe1ca79503 9214-9230
 docs/user/project-settings.md
   s_4ea720c0429591::t_df136d990a5663 54
+  s_4ea720c0429591::t_906b01d0255dd7 23
 apps/web/src/components/settings/ProjectSettingsPanel.tsx
   s_4ea720c0429591::t_e62d1033e26f54 609
   s_4ea720c0429591::t_c2a3f84e5f0a3d 608,610

@@ -1,0 +1,24 @@
+apps/web/src/components/ProjectFavicon.browser.test.tsx
+  s_4ea720c0429591::t_cf558d999e9041 12,21-23,132-166
+  s_4ea720c0429591::t_2afde36a723745 167-169
+apps/server/src/provider/agentContextBudget.json
+  s_4ea720c0429591::t_3f1e00c3753093 4
+apps/web/src/components/ProjectFavicon.tsx
+  s_4ea720c0429591::t_c341a42f1fb960 104-105
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d5a612cb435296d6fccfb686af831bd3a4ac2b8d",
+  "prompts": {},
+  "sessions": {
+    "s_4ea720c0429591": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ff976cd2-c565-4364-be91-cfc7c382e092",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Thomas Camlong <thomas@ajnart.fr>"
+    }
+  }
+}

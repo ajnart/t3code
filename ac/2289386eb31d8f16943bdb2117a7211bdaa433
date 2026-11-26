@@ -1,0 +1,25 @@
+apps/web/src/components/settings/ProjectIconPickerDialog.browser.test.tsx
+  s_4ea720c0429591::t_a0f4870e0ed2c1 71
+apps/web/src/dashboardIcons.test.ts
+  s_4ea720c0429591::t_b28eeeefa2311f 16,52-55
+apps/web/src/components/settings/ProjectIconPickerDialog.tsx
+  s_4ea720c0429591::t_b28eeeefa2311f 152,154-155
+apps/web/src/dashboardIcons.ts
+  s_4ea720c0429591::t_b28eeeefa2311f 93-96
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ac2289386eb31d8f16943bdb2117a7211bdaa433",
+  "prompts": {},
+  "sessions": {
+    "s_4ea720c0429591": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ff976cd2-c565-4364-be91-cfc7c382e092",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Thomas Camlong <thomas@ajnart.fr>"
+    }
+  }
+}

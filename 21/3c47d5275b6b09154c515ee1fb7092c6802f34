@@ -1,0 +1,21 @@
+apps/web/src/components/settings/ProjectIconPickerDialog.tsx
+  s_4ea720c0429591::t_46bc602e447a4c 375,442-445
+apps/web/src/components/settings/ProjectIconPickerDialog.browser.test.tsx
+  s_4ea720c0429591::t_46bc602e447a4c 95-115
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "213c47d5275b6b09154c515ee1fb7092c6802f34",
+  "prompts": {},
+  "sessions": {
+    "s_4ea720c0429591": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ff976cd2-c565-4364-be91-cfc7c382e092",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Thomas Camlong <thomas@ajnart.fr>"
+    }
+  }
+}
